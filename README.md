@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cynthia Christelle</h1>
 <h3 align="center">I'm a rising junior at the African Leadership University pursuing an honors degree in Computer Science 🎓</h3>
-<h3 align="center">I'm passionate about machine learning and AI, and I love me some front-end web development👩🏿‍💻 </h3>
+<h4 align="center">I'm passionate about machine learning and AI, and I love me some front-end web development👩🏿‍💻 </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1svr0&label=Profile%20views&color=0e75b6&style=flat" alt="1svr0" /> </p>
 
